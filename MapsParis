@@ -4,6 +4,7 @@
 <h1>Google Map near PARIS</h1>  
 <div id="map" style="width:401px;height:400px;background:grey"></div>  
 
+<!--
 <script>  
 function myMap() {  
 var mapOptions = {  
@@ -15,7 +16,7 @@ var map = new google.maps.Map(document.getElementById("map"), mapOptions);
 }
 
 </script>
-<!--
+
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCaRK9R3cllgIB-dK_KvxkEZU9YoPkTBjU&callback=myMap"></script> 
 -->
 
