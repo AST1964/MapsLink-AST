@@ -12,10 +12,13 @@ var mapOptions = {
     mapTypeId: google.maps.MapTypeId.HYBRID  
 }  
 var map = new google.maps.Map(document.getElementById("map"), mapOptions);  
-}  
-</script>
+}
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCaRK9R3cllgIB-dK_KvxkEZU9YoPkTBjU&callback=myMap"></script>  
+</script>
+<!--
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCaRK9R3cllgIB-dK_KvxkEZU9YoPkTBjU&callback=myMap"></script> 
+-->
 
 </body>  
-</html> 
+</html>
+*/
